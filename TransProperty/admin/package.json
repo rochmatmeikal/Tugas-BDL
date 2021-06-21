@@ -1,0 +1,17 @@
+{
+  "name": "admin-TransProperty",
+  "version": "1.0.7",
+  "description": "Admin - Free admin panel that is based on Bootstrap 3.x with Trans Property",
+  "main": "js/admin.js",
+  "scripts": {},
+  "repository": {
+    "type": "#",
+    "url": "#"
+  },
+  "author": "Rochmat Meikal",
+  "license": "TMHCR",
+  "bugs": {
+    "url": "#"
+  },
+  "homepage": "#"
+}
